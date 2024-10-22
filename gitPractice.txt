@@ -1,2 +1,3 @@
 Mit diesem Text wird die Datei gitPractice erstellt
-zweiter COMMIT (Veraenderung, bzw Momentaufnahme) im MAIN-BRANCH
+...weiter Text wird hinzugefuegt, textextextextetext....
+neuer Text vom ersten Ast
