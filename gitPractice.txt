@@ -1,3 +1,4 @@
 Mit diesem Text wird die Datei gitPractice erstellt
 ...weiter Text wird hinzugefuegt, textextextextetext....
 neuer Text vom ersten Ast
+...mehr Veraederung, mehr Text indaBranch erster_Ast
